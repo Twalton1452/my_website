@@ -1,9 +1,0 @@
-{
-    "name": "my_website",
-    "version": "1.0.0",
-    "description": "A website to play with",
-    "main": "index.js",
-    "repository": "git@github.com:Twalton1452/my_website.git",
-    "author": "tyler walton <tyler.walton1452@gmail.com>",
-    "license": "MIT"
-}
